@@ -5,6 +5,13 @@
 <br>
 Be The Hero
 </h1>
+<h1 align="center">
+<br>
+  <img src="assets/logo.svg" alt="bethehero" width="150">
+<br>
+<br>
+Be The Hero
+</h1>
 
 <h4 align="center">
   Be the Hero is a project that aims to help, in a financial way, a charity, helping it to maintain itself. Non-governmental organizations (NGOs) are private, non-profit civil society entities whose purpose is to defend and promote a cause. This cause can be of virtually any type: human rights, animal rights, indigenous rights, gender, the fight against racism, the environment, urban issues, immigrants, among many others.
@@ -16,16 +23,13 @@ Be The Hero
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License MIT">
   </a>
-  <br>
-  [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Be%20the%20Hero&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fjoaoathaide%2Fbethehero-api-server%2Fmaster%2Finsomnia-bethehero.json%3Ftoken%3DAMB7SLXUMQW2UG7CW457I526RDFRO)
 </p>
 
-<p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license">License</a>
-</p>
+<div align="center">
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Be%20the%20Hero&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fjoaoathaide%2Fbethehero-api-server%2Fmaster%2Finsomnia-bethehero.json%3Ftoken%3DAMB7SLXUMQW2UG7CW457I526RDFRO)
+
+</div>
 
 ## :rocket: Technologies
 
