@@ -5,13 +5,6 @@
 <br>
 Be The Hero
 </h1>
-<h1 align="center">
-<br>
-  <img src="assets/logo.svg" alt="bethehero" width="150">
-<br>
-<br>
-Be The Hero
-</h1>
 
 <h4 align="center">
   Be the Hero is a project that aims to help, in a financial way, a charity, helping it to maintain itself. Non-governmental organizations (NGOs) are private, non-profit civil society entities whose purpose is to defend and promote a cause. This cause can be of virtually any type: human rights, animal rights, indigenous rights, gender, the fight against racism, the environment, urban issues, immigrants, among many others.
