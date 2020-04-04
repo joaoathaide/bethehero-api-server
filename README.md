@@ -16,6 +16,8 @@ Be The Hero
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License MIT">
   </a>
+  <br>
+  [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Be%20the%20Hero&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fjoaoathaide%2Fbethehero-api-server%2Fmaster%2Finsomnia-bethehero.json%3Ftoken%3DAMB7SLXUMQW2UG7CW457I526RDFRO)
 </p>
 
 <p align="center">
